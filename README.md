@@ -78,5 +78,5 @@ plt.show()
 Thus the program is implemented and Executed Successfully
 
 # Output 
-<img width="576" height="432" alt="OutputGraph" src="https://github.com/user-attachments/assets/4c44af49-8d88-4171-a039-2b6f62d750f5" />
+<img width="729" height="604" alt="image" src="https://github.com/user-attachments/assets/feba53ff-f10e-495e-8e7d-61be01330a34" />
 
