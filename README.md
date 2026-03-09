@@ -23,6 +23,10 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ```
 
+Name : Infant Vijay.A
+reg no: 212225240052
+slot:T1-I5
+
 import numpy as np
 import matplotlib.pyplot as plt
 
