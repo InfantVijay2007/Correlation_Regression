@@ -72,11 +72,10 @@ plt.show()
 
 ```
 
+# Output 
+<img width="729" height="604" alt="image" src="https://github.com/user-attachments/assets/feba53ff-f10e-495e-8e7d-61be01330a34" />
 
 # Result
 
 Thus the program is implemented and Executed Successfully
-
-# Output 
-<img width="729" height="604" alt="image" src="https://github.com/user-attachments/assets/feba53ff-f10e-495e-8e7d-61be01330a34" />
-
+https://github.com/InfantVijay2007/Correlation_Regression.git
